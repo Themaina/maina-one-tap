@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Providers;
+namespace Maina888\OneTap\Providers;
 
 use Botble\Base\Facades\PanelSectionManager;
 use Botble\Base\PanelSections\PanelSectionItem;
@@ -10,9 +10,9 @@ use Botble\Ecommerce\Models\Product;
 use Botble\Setting\PanelSections\SettingOthersPanelSection;
 use Botble\Theme\Events\RenderingSingleEvent;
 use Illuminate\Support\Facades\Route;
-use MainaSuperintelligence\OneTap\Commands\SwitchCommand;
-use MainaSuperintelligence\OneTap\Support\OneTapPages;
-use MainaSuperintelligence\OneTap\Support\OneTapSettings;
+use Maina888\OneTap\Commands\SwitchCommand;
+use Maina888\OneTap\Support\OneTapPages;
+use Maina888\OneTap\Support\OneTapSettings;
 use Throwable;
 
 class OneTapServiceProvider extends ServiceProvider

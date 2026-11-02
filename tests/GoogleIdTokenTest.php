@@ -1,8 +1,8 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Tests;
+namespace Maina888\OneTap\Tests;
 
-use MainaSuperintelligence\OneTap\Support\GoogleIdToken;
+use Maina888\OneTap\Support\GoogleIdToken;
 use PHPUnit\Framework\TestCase;
 
 class GoogleIdTokenTest extends TestCase

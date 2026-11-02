@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Support;
+namespace Maina888\OneTap\Support;
 
 /**
  * Checks the claims of a Google ID token payload. The signature itself is verified by google/apiclient

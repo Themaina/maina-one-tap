@@ -1,8 +1,8 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Tests;
+namespace Maina888\OneTap\Tests;
 
-use MainaSuperintelligence\OneTap\Support\OneTapPages;
+use Maina888\OneTap\Support\OneTapPages;
 use PHPUnit\Framework\TestCase;
 
 class OneTapPagesTest extends TestCase

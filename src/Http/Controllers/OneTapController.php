@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Http\Controllers;
+namespace Maina888\OneTap\Http\Controllers;
 
 use Botble\Base\Http\Controllers\BaseController;
 use Botble\Ecommerce\Models\Customer;
@@ -12,8 +12,8 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Str;
-use MainaSuperintelligence\OneTap\Support\GoogleIdToken;
-use MainaSuperintelligence\OneTap\Support\OneTapSettings;
+use Maina888\OneTap\Support\GoogleIdToken;
+use Maina888\OneTap\Support\OneTapSettings;
 use Throwable;
 
 /**

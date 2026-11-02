@@ -1,4 +1,4 @@
-# Marketplace listing copy (Maina 888)
+# Marketplace listing copy (maina888)
 
 **Name:** Google One Tap
 **Plugin id:** `maina888/one-tap`

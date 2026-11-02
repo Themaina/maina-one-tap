@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap;
+namespace Maina888\OneTap;
 
 use Botble\PluginManagement\Abstracts\PluginOperationAbstract;
 use Botble\Setting\Facades\Setting;

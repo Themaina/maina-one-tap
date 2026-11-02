@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Support;
+namespace Maina888\OneTap\Support;
 
 /**
  * Which storefront pages show the prompt. Kept free of framework calls so it can be unit tested on its own.

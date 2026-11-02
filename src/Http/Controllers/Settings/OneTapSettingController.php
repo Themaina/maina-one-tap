@@ -1,12 +1,12 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Http\Controllers\Settings;
+namespace Maina888\OneTap\Http\Controllers\Settings;
 
 use Botble\Setting\Http\Controllers\SettingController;
 use Illuminate\Support\Arr;
-use MainaSuperintelligence\OneTap\Forms\Settings\OneTapSettingForm;
-use MainaSuperintelligence\OneTap\Http\Requests\Settings\OneTapSettingRequest;
-use MainaSuperintelligence\OneTap\Support\OneTapSettings;
+use Maina888\OneTap\Forms\Settings\OneTapSettingForm;
+use Maina888\OneTap\Http\Requests\Settings\OneTapSettingRequest;
+use Maina888\OneTap\Support\OneTapSettings;
 
 class OneTapSettingController extends SettingController
 {

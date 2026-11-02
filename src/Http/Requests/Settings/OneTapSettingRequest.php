@@ -1,11 +1,11 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Http\Requests\Settings;
+namespace Maina888\OneTap\Http\Requests\Settings;
 
 use Botble\Base\Rules\OnOffRule;
 use Botble\Support\Http\Requests\Request;
 use Illuminate\Validation\Rule;
-use MainaSuperintelligence\OneTap\Support\OneTapPages;
+use Maina888\OneTap\Support\OneTapPages;
 
 class OneTapSettingRequest extends Request
 {

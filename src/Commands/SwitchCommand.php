@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Commands;
+namespace Maina888\OneTap\Commands;
 
 use Botble\Setting\Facades\Setting;
 use Illuminate\Console\Command;

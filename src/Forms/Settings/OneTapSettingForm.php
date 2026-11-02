@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\OneTap\Forms\Settings;
+namespace Maina888\OneTap\Forms\Settings;
 
 use Botble\Base\Forms\FieldOptions\CheckboxFieldOption;
 use Botble\Base\Forms\FieldOptions\NumberFieldOption;
@@ -14,9 +14,9 @@ use Botble\Base\Forms\Fields\SelectField;
 use Botble\Base\Forms\Fields\TextField;
 use Botble\Setting\Forms\SettingForm;
 use Illuminate\Support\Facades\Route;
-use MainaSuperintelligence\OneTap\Http\Requests\Settings\OneTapSettingRequest;
-use MainaSuperintelligence\OneTap\Support\OneTapPages;
-use MainaSuperintelligence\OneTap\Support\OneTapSettings;
+use Maina888\OneTap\Http\Requests\Settings\OneTapSettingRequest;
+use Maina888\OneTap\Support\OneTapPages;
+use Maina888\OneTap\Support\OneTapSettings;
 
 class OneTapSettingForm extends SettingForm
 {
