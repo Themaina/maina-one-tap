@@ -38,7 +38,7 @@
     {
       "file": "screenshot-4",
       "title": "Find it under Settings \u2192 Others",
-      "caption": "Off after installation until you switch it on, so you can set it up first. Test any page with ?onetap=1.",
+      "caption": "Off after installation, so you can set it up first. Add ?onetap=1 to a page address to test.",
       "images": [
         "others.png"
       ],
