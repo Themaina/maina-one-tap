@@ -1,0 +1,15 @@
+{
+    "id": "maina888/one-tap",
+    "name": "Google One Tap",
+    "namespace": "MainaSuperintelligence\\OneTap\\",
+    "provider": "MainaSuperintelligence\\OneTap\\Providers\\OneTapServiceProvider",
+    "author": "Maina 888",
+    "url": "https://github.com/Themaina/maina-one-tap",
+    "version": "1.0.0",
+    "description": "Google One Tap sign-in for shop customers: signed-out shoppers get Google's \"Continue as …\" card on product, cart and checkout pages and are signed in without a reload, so the cart and checkout keep what was typed. Uses the Google client ID from Social Login.",
+    "minimum_core_version": "7.3.0",
+    "require": [
+        "botble/ecommerce",
+        "botble/social-login"
+    ]
+}
